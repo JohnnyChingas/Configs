@@ -2,6 +2,9 @@
 source $VIMRUNTIME/mswin.vim
 behave mswin
 
+" set color scheme
+colorscheme blue
+
 " make sure we are in vim mode and not vi mode
 set nocompatible
 set backspace=2
