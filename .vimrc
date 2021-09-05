@@ -28,4 +28,6 @@ set listchars=tab:>.
 set background=dark
 syntax enable
 
-
+" tab navigation 
+nnoremap tk  :tabnext<CR>
+nnoremap tj  :tabprev<CR>
